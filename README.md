@@ -26,7 +26,8 @@ You can click the Preview link to take a look at your changes.
 
 🌱 Why I Code
 
-![изображение](https://github.com/user-attachments/assets/60b76fe8-9912-41c2-970e-a5f4cf7590f1)![изображение](https://github.com/user-attachments/assets/2f5d4ca0-0a2d-47fd-b465-2cfdde398303)![изображение](https://github.com/user-attachments/assets/39ba3b99-a9da-46cc-9179-55ac965896b2)![изображение](https://github.com/user-attachments/assets/ea084c9c-9e1d-4894-8c8d-9c5f6d64d8c0)
+![изображение](https://github.com/user-attachments/assets/60b76fe8-9912-41c2-970e-a5f4cf7590f1)![изображение](https://github.com/user-attachments/assets/2f5d4ca0-0a2d-47fd-b465-2cfdde398303)![изображение](https://github.com/user-attachments/assets/39ba3b99-a9da-46cc-9179-55ac965896b2)![изображение](https://github.com/user-attachments/assets/ea084c9c-9e1d-4894-8c8d-9c5f6d64d8c0)![изображение](https://github.com/user-attachments/assets/344b21b1-406e-4e01-9f17-ca028ee730b8)
+
 
 
 
