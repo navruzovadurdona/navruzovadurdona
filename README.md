@@ -50,15 +50,15 @@ Turns cultural landmarks into interactive QR story-points with maps, quests, vis
 Smart public transport system with live SMS tracking, AI-powered route planning, voice navigation, and accessibility support.
 
 
- ![изображение](https://github.com/user-attachments/assets/3b0c6d3b-b6fd-4da9-8437-99f44a007c7a)
-
-
 
 Languages:    Python, HTML, CSS, JavaScript
 Frameworks:   Django, REST, Vue.js, React
 Databases:    PostgreSQL, SQLite
 Tools:        Docker, Git, GitHub, Linux, Swagger
 Concepts:     Clean Architecture, API Design, Testing, Deployment
+
+ ![изображение](https://github.com/user-attachments/assets/3b0c6d3b-b6fd-4da9-8437-99f44a007c7a)
+
 
 
 🏆 Achievements & Recognition
