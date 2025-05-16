@@ -32,6 +32,6 @@ Junior Backend Developer | Python & Django 💻
 📧 navruzovadurdona@gmail.com
 📱 +996 (221) 02-80-64
 
-
+https://camo.githubusercontent.com/cc77d33abe0850d6437eeb965a214b641aebb693bfc4ea4a4826b825cac80536/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f627269676874677265656e2d627269676874677265656e2e737667
 
 
