@@ -25,6 +25,7 @@ You can click the Preview link to take a look at your changes.
     🚀 Constantly striving to improve and build meaningful software
 
 🌱 Why I Code
+![изображение](https://github.com/user-attachments/assets/60b76fe8-9912-41c2-970e-a5f4cf7590f1)
 
 I believe technology can empower communities and create real change — especially in education, civic services, and accessibility.
 Every line of code I write is a step toward a smarter, more inclusive, and connected world.
