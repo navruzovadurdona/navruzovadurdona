@@ -57,7 +57,6 @@ Databases:    PostgreSQL, SQLite
 Tools:        Docker, Git, GitHub, Linux, Swagger
 Concepts:     Clean Architecture, API Design, Testing, Deployment
 
- ![изображение](https://github.com/user-attachments/assets/3b0c6d3b-b6fd-4da9-8437-99f44a007c7a)
 
 
 
@@ -80,6 +79,8 @@ Concepts:     Clean Architecture, API Design, Testing, Deployment
     📊 Dive deeper into Data Science (Pandas, scikit-learn)
 
 
+
+   ![изображение](https://github.com/user-attachments/assets/3b0c6d3b-b6fd-4da9-8437-99f44a007c7a)
 
 
 
