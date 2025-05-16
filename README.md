@@ -12,7 +12,8 @@ navruzovadurdona/navruzovadurdona is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 ![изображение](https://github.com/user-attachments/assets/604bf119-c37b-4da8-929f-13f67939acfd)
-![изображение](https://github.com/user-attachments/assets/011a3cc7-6553-4333-9ed7-cdca0cde7666)
+![изображение](https://github.com/user-attachments/assets/011a3cc7-6553-4333-9ed7-cdca0cde7666) ![изображение](https://github.com/user-attachments/assets/e9780649-2603-4fae-9594-f39e1680d19f)
+
 
 
 👨‍💻 About Me
