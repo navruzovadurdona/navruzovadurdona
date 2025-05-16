@@ -51,6 +51,14 @@ Smart public transport system with live SMS tracking, AI-powered route planning,
 
     Each project reflects my mission: to solve real-world problems through purposeful technology. 🌍
 
+
+Languages:    Python, HTML, CSS, JavaScript
+Frameworks:   Django, REST, Vue.js, React
+Databases:    PostgreSQL, SQLite
+Tools:        Docker, Git, GitHub, Linux, Swagger
+Concepts:     Clean Architecture, API Design, Testing, Deployment
+
+
 🏆 Achievements & Recognition
 
     🥈 Finalist – National Competitive Programming Olympiads (2023–2025)
