@@ -26,7 +26,8 @@ You can click the Preview link to take a look at your changes.
 
 🌱 Why I Code
 
-![изображение](https://github.com/user-attachments/assets/60b76fe8-9912-41c2-970e-a5f4cf7590f1)![изображение](https://github.com/user-attachments/assets/2f5d4ca0-0a2d-47fd-b465-2cfdde398303)
+![изображение](https://github.com/user-attachments/assets/60b76fe8-9912-41c2-970e-a5f4cf7590f1)![изображение](https://github.com/user-attachments/assets/2f5d4ca0-0a2d-47fd-b465-2cfdde398303)![изображение](https://github.com/user-attachments/assets/39ba3b99-a9da-46cc-9179-55ac965896b2)
+
 
 
 I believe technology can empower communities and create real change — especially in education, civic services, and accessibility.
