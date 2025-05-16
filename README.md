@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on Epam
 - 📫 How to reach me +996 (221)-02-80-64
 - 
-  ![изображение](https://github.com/user-attachments/assets/8d087ccd-5a61-4734-8e94-36565de7556f)
+  ![изображение](https://github.com/user-attachments/assets/8d087ccd-5a61-4734-8e94-36565de7556f)![изображение](https://github.com/user-attachments/assets/a89518f2-fd9f-4b73-9ae1-ea734ad528cd)
+
 
 
 <!---
