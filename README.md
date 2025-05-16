@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning in ICT4GIRLS in Batken
 - 💞️ I’m looking to collaborate on Epam
 - 📫 How to reach me +996 (221)-02-80-64
-  
+- 
+  ![изображение](https://github.com/user-attachments/assets/8d087ccd-5a61-4734-8e94-36565de7556f)
+
 
 <!---
 navruzovadurdona/navruzovadurdona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
