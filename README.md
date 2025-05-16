@@ -12,26 +12,55 @@ You can click the Preview link to take a look at your changes.
 ![изображение](https://github.com/user-attachments/assets/604bf119-c37b-4da8-929f-13f67939acfd)
 
 
-# 👋 Привет! Я Дурдона
+👨‍💻 About Me
 
-Junior Backend Developer | Python & Django 💻
+    📍 Based in Razzakov, Batken, Kyrgyzstan 🇰🇬
+    🔧 Specializing in backend development, clean architecture, and socially impactful tech
+    💻 Learning full-stack development — backend-first with Python, Django, REST, PostgreSQL, Docker, React, Vue
+    🤖 Passionate about AI in education, digital transformation, and smart city ecosystems
+    🚀 Constantly striving to improve and build meaningful software
 
-## 🛠 Навыки
-- Django, REST API, PostgreSQL
-- HTML, CSS, JavaScript
-- Git, GitHub
+🌱 Why I Code
 
-## 🌟 Проекты
-- SmartRazzakov — информационный сайт
-- Блог на Django/React
+I believe technology can empower communities and create real change — especially in education, civic services, and accessibility.
+Every line of code I write is a step toward a smarter, more inclusive, and connected world.
+🚀 Highlight Projects
 
-## 👩‍💻 My Coding Vibes
+🌐 SmartRazzakov
+Digital platform connecting citizens, data, and local services — enabling smarter urban living.
+
+📚 EduSpace
+AI-powered educational ecosystem with virtual classrooms, smart assessments, gamification, and parental engagement tools.
+
+🏙 CityTales
+Turns cultural landmarks into interactive QR story-points with maps, quests, visuals, and offline access — built with local communities.
+
+🚌 CityRoutes
+Smart public transport system with live SMS tracking, AI-powered route planning, voice navigation, and accessibility support.
+
+    Each project reflects my mission: to solve real-world problems through purposeful technology. 🌍
+
+🏆 Achievements & Recognition
+
+    🥈 Finalist – National Competitive Programming Olympiads (2023–2025)
+    🥉 Hackathon Finalist – Batken 4.0 Digital Solutions (GIZ, ITU, Batken State University)
+    📜 Certified – Digital Literacy Program, ICT4Girls (GIZ, AI Academy, HT Park)
+
+⏳ My Developer Journey
+
+2023 – Started with Python & Django, built my first REST APIs
+2024 – Adopted Clean Architecture & launched SmartRazzakov
+2025 – Integrating AI into EduSpace and exploring advanced web technologies
+🎯 2025 Learning Goals
+
+    ⚡ Master FastAPI & WebSocket-based communication
+    🧠 Build custom AI agents with Python
+    📱 Launch a Progressive Web App (PWA)
+    📊 Dive deeper into Data Science (Pandas, scikit-learn)
 
 
-## 📫 Контакты
-📍 Кыргызстан, Лейлек  
-📧 navruzovadurdona@gmail.com
-📱 +996 (221) 02-80-64
+
+
 
 
 ![изображение](https://github.com/user-attachments/assets/c0a805ac-3850-411f-86ef-952b02d8feaf)
