@@ -9,6 +9,7 @@
 navruzovadurdona/navruzovadurdona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![изображение](https://github.com/user-attachments/assets/604bf119-c37b-4da8-929f-13f67939acfd)
 
 
 # 👋 Привет! Я Дурдона
