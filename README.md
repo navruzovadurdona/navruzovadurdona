@@ -1,4 +1,4 @@
-![изображение](https://github.com/navruzovadurdona/user-attachments/assets/06504b12-8aef-4834-91fb-1b19a1ec8119)
+![изображение](https://github.com/user-attachments/assets/06504b12-8aef-4834-91fb-1b19a1ec8119)
 
 
 - 👋 Hi, I’m @navruzovadurdona
