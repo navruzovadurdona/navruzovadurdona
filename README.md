@@ -33,4 +33,5 @@ Junior Backend Developer | Python & Django 💻
 📱 +996 (221) 02-80-64
 
 
+![изображение](https://github.com/user-attachments/assets/c0a805ac-3850-411f-86ef-952b02d8feaf)
 
