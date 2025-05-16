@@ -50,7 +50,9 @@ Turns cultural landmarks into interactive QR story-points with maps, quests, vis
 🚌 CityRoutes
 Smart public transport system with live SMS tracking, AI-powered route planning, voice navigation, and accessibility support.
 
-    Each project reflects my mission: to solve real-world problems through purposeful technology. 🌍
+
+ ![изображение](https://github.com/user-attachments/assets/3b0c6d3b-b6fd-4da9-8437-99f44a007c7a)
+
 
 
 Languages:    Python, HTML, CSS, JavaScript
