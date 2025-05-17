@@ -33,6 +33,10 @@ You can click the Preview link to take a look at your changes.
 
 
 
+![изображение](https://github.com/user-attachments/assets/b4bd45ec-c297-4ab2-a44a-b730e93507e9)
+
+
+
 
 
 
