@@ -94,3 +94,6 @@ Concepts:     Clean Architecture, API Design, Testing, Deployment
 
 ![изображение](https://github.com/user-attachments/assets/c0a805ac-3850-411f-86ef-952b02d8feaf)
 
+
+
+![изображение](https://github.com/user-attachments/assets/fb412d7a-981e-4f01-8297-394ab32a027d)
