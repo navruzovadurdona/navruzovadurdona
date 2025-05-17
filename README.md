@@ -52,6 +52,10 @@ Every line of code I write is a step toward a smarter, more inclusive, and conne
 
 
 
+
+
+
+
       Languages:    Python, HTML, CSS, JavaScript
       
       Frameworks:   Django, REST, Vue.js, React
