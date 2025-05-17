@@ -38,25 +38,25 @@ I believe technology can empower communities and create real change — especial
 Every line of code I write is a step toward a smarter, more inclusive, and connected world.
 🚀 Highlight Projects
 
-🌐 SmartRazzakov
+     🌐 SmartRazzakov
 Digital platform connecting citizens, data, and local services — enabling smarter urban living.
 
-📚 EduSpace
+    📚 EduSpace
 AI-powered educational ecosystem with virtual classrooms, smart assessments, gamification, and parental engagement tools.
 
-🏙 CityTales
+    🏙 CityTales
 Turns cultural landmarks into interactive QR story-points with maps, quests, visuals, and offline access — built with local communities.
 
-🚌 CityRoutes
+    🚌 CityRoutes
 Smart public transport system with live SMS tracking, AI-powered route planning, voice navigation, and accessibility support.
 
 
 
-Languages:    Python, HTML, CSS, JavaScript
-Frameworks:   Django, REST, Vue.js, React
-Databases:    PostgreSQL, SQLite
-Tools:        Docker, Git, GitHub, Linux, Swagger
-Concepts:     Clean Architecture, API Design, Testing, Deployment
+      Languages:    Python, HTML, CSS, JavaScript
+      Frameworks:   Django, REST, Vue.js, React
+      Databases:    PostgreSQL, SQLite
+      Tools:        Docker, Git, GitHub, Linux, Swagger
+      Concepts:     Clean Architecture, API Design, Testing, Deployment
 
 
 
@@ -69,9 +69,9 @@ Concepts:     Clean Architecture, API Design, Testing, Deployment
 
 ⏳ My Developer Journey
 
-2023 – Started with Python & Django, built my first REST APIs
-2024 – Adopted Clean Architecture & launched SmartRazzakov
-2025 – Integrating AI into EduSpace and exploring advanced web technologies
+        2023 – Started with Python & Django, built my first REST APIs
+        2024 – Adopted Clean Architecture & launched SmartRazzakov
+        2025 – Integrating AI into EduSpace and exploring advanced web technologies
 🎯 2025 Learning Goals
 
     ⚡ Master FastAPI & WebSocket-based communication
