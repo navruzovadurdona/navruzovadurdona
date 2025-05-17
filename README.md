@@ -39,23 +39,27 @@ Every line of code I write is a step toward a smarter, more inclusive, and conne
 🚀 Highlight Projects
 
      🌐 SmartRazzakov
-Digital platform connecting citizens, data, and local services — enabling smarter urban living.
+    Digital platform connecting citizens, data, and local services — enabling smarter urban living.
 
     📚 EduSpace
-AI-powered educational ecosystem with virtual classrooms, smart assessments, gamification, and parental engagement tools.
+    AI-powered educational ecosystem with virtual classrooms, smart assessments, gamification, and parental engagement tools.
 
     🏙 CityTales
-Turns cultural landmarks into interactive QR story-points with maps, quests, visuals, and offline access — built with local communities.
+    Turns cultural landmarks into interactive QR story-points with maps, quests, visuals, and offline access — built with local communities.
 
     🚌 CityRoutes
-Smart public transport system with live SMS tracking, AI-powered route planning, voice navigation, and accessibility support.
+    Smart public transport system with live SMS tracking, AI-powered route planning, voice navigation, and accessibility support.
 
 
 
       Languages:    Python, HTML, CSS, JavaScript
+      
       Frameworks:   Django, REST, Vue.js, React
+      
       Databases:    PostgreSQL, SQLite
+      
       Tools:        Docker, Git, GitHub, Linux, Swagger
+      
       Concepts:     Clean Architecture, API Design, Testing, Deployment
 
 
