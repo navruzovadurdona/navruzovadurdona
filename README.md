@@ -37,16 +37,12 @@ You can click the Preview link to take a look at your changes.
 I believe technology can empower communities and create real change — especially in education, civic services, and accessibility.
 Every line of code I write is a step toward a smarter, more inclusive, and connected world.
 🚀 Highlight Projects
-
 🌐 SmartRazzakov
 Digital platform connecting citizens, data, and local services — enabling smarter urban living.
-
 📚 EduSpace
 AI-powered educational ecosystem with virtual classrooms, smart assessments, gamification, and parental engagement tools.
-
 🏙 CityTales
 Turns cultural landmarks into interactive QR story-points with maps, quests, visuals, and offline access — built with local communities.
-
 🚌 CityRoutes
 Smart public transport system with live SMS tracking, AI-powered route planning, voice navigation, and accessibility support.
 
