@@ -10,7 +10,7 @@
   ![изображение](https://github.com/user-attachments/assets/8d087ccd-5a61-4734-8e94-36565de7556f)
 
   
-<img width="435" height="50" alt="image" src="https://github.com/user-attachments/assets/7ee82aab-4e6a-466f-92e5-eac74111afd0" /
+
 
 
 
